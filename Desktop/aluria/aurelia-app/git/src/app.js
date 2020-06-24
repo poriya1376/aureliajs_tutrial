@@ -1,4 +1,7 @@
-import {Todo} from './todo'
+import {Todo} from './todo';
+import {index} from './index';
+import {about} from './about';
+import {post}from './post';
 export class App {
 
   message = 'Hello World!';
@@ -24,5 +27,17 @@ export class App {
     this.todolist.splice(this.todolist.indexOf(todo),1);
 
   }
+
+  configureRouter(config, router) {
+    this.router = router;
+    config.title = 'Aurelia';
+    config.map([
+      { route: '',       name: 'index',       moduleId: 'index' },
+      { route: 'about',       name: 'about',       moduleId: 'about' },
+      { route: 'post/:slug',       name: 'post',       moduleId: 'view post' },
+
+    ]);
+  }
+
  
 }

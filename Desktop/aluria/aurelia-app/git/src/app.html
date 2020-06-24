@@ -1,4 +1,5 @@
 <template >
+
 <div style="background-color: black">
   <h1 style="color: red">${message}</h1>
   <h3 style="color: white">${salam}</h3>
@@ -14,4 +15,13 @@
 	</ul>
   <input type="text" value.bind="new"/>
   <button click.delegate="addtodo()">add</button>
+  	<ul>
+  		<li>
+  			<a href="#/">Home</a>
+  			<a href="#/about">About</a>
+        <a route-href="route:post;params.bind:{slug:'this is test'}">this is test</a>
+  		</li>
+  	</ul>
+        <router-view></router-view>
+
 </template>
