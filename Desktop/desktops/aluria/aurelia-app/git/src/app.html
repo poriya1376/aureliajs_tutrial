@@ -1,0 +1,27 @@
+<template >
+
+<div style="background-color: black">
+  <h1 style="color: red">${message}</h1>
+  <h3 style="color: white">${salam}</h3>
+</div>
+	<ul>
+		<li repeat.for="todo of todolist">
+    <input type="checkbox" checked.bind="todo.done"name=""/>
+        <span css="text-decoration: ${todo.done ? 'line-through':'none'}">
+        ${todo.des} ${todo.done}
+        </span>
+        <button click.delegate="deletetodo(todo)">remove</button
+    </li>
+	</ul>
+  <input type="text" value.bind="new"/>
+  <button click.delegate="addtodo()">add</button>
+  	<ul>
+  		<li>
+  			<a href="#/">Home</a>
+  			<a href="#/about">About</a>
+        <a route-href="route:post;params.bind:{slug:'this is test'}">this is test</a>
+  		</li>
+  	</ul>
+        <router-view></router-view>
+
+</template>

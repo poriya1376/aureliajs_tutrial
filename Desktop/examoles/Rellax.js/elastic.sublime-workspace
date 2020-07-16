@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"trr",
+				"transform\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"se",
+				"secondary-text"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"identi",
+				"hw_Identify"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"load",
+				"loadComponent"
+			],
+			[
+				"_",
+				"_serialize"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"t",
+				"then"
+			],
+			[
+				"de",
+				"deletePerson"
+			],
+			[
+				"pr",
+				"PersonService"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"pe",
+				"person"
+			],
+			[
+				"e",
+				"editPerson"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"per",
+				"person"
+			],
+			[
+				"ge",
+				"getPersonById"
+			],
+			[
+				"get",
+				"getPersonById"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"d",
+				"DeletePerson"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"Person",
+				"person"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bt",
+				"btn-success"
+			],
+			[
+				"dl",
+				"dl-horizontal"
+			],
+			[
+				"ed",
+				"editPersonController"
+			],
+			[
+				"add",
+				"addPersonController"
+			],
+			[
+				"addPerson",
+				"AddNewPerson"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"Ed",
+				"EditPerson"
+			],
+			[
+				"Ad",
+				"AddNewPerson"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"m",
+				"Module"
+			],
+			[
+				"R",
+				"angular-route"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"new",
+				"newcar"
+			],
+			[
+				"me",
+				"massge"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ul",
+				"ul\tTag"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"susee",
+				"suseseesfully"
+			],
+			[
+				"num_ro",
+				"db2_num_rows"
+			],
+			[
+				"fetch_",
+				"fbsql_fetch_array"
+			],
+			[
+				"execute",
+				"mysqli_execute"
+			],
+			[
+				"bind_pa",
+				"mysqli_bind_param"
+			],
+			[
+				"insert_",
+				"mysql_insert_id"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"pas",
+				"pass"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"my",
+				"myDB"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"ser",
+				"servername"
+			],
+			[
+				"mA",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"bore",
+				"border\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"mysql_c",
+				"mysql_connect"
+			],
+			[
+				"mysql_e",
+				"mysql_error"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"repl",
+				"str_replace"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"fro",
+				"form1"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"mu",
+				"mull"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"hell",
+				"hello"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3238,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 2813,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/poriya/Desktop/elec/hello/index.js",
+		"/C/Users/poriya/Desktop/aluria/aurelia-app/src/index.html",
+		"/C/Users/poriya/Desktop/bootstrap 5/index.html",
+		"/C/Users/poriya/Desktop/aluria/aurelia-app/src/about.html",
+		"/C/Users/poriya/Desktop/aluria/aurelia-app/src/app.html",
+		"/C/Users/poriya/Desktop/elec/hello/index.html",
+		"/C/Users/poriya/Desktop/nginx-1.18.0/html/about.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/Controllers/deletePersonController.js",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/Controllers/addPersonController.js",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/Controllers/editPersonController.js",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/deletePerson.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/editPerson.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/list.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/index.html",
+		"/E/دانلود ها/Downloads/classsed-svelte-tutorial-master/classsed-svelte-tutorial-master/src/App.svelte",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_02/Angular_SPA_Example/bootstrap.min.css",
+		"/C/Users/poriya/Desktop/test11.php",
+		"/C/Users/poriya/Desktop/test7.php",
+		"/C/xampps/htdocs/test20.php",
+		"/C/wamp64/www/4.php",
+		"/C/Users/poriya/Desktop/vues/main.js",
+		"/C/Users/poriya/Desktop/vues/index.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam08.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam07.html",
+		"/C/golong/go/src/example/templates/index.html",
+		"/C/django/mysite/main/views.py",
+		"/C/django/mysite/main/urls.py",
+		"/C/django/mysite/mysite/settings.py",
+		"/C/django/mysite/mysite/urls.py",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam06.html",
+		"/C/Users/poriya/Desktop/juqry/test1.html",
+		"/C/Users/poriya/Desktop/New folder (6)/TEST1.html",
+		"/C/wamp64/www/test.php",
+		"/C/wamp64/www/conect.php",
+		"/C/xampps/htdocs/22.php",
+		"/C/xampps/htdocs/test21.php",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam09.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam10.html",
+		"/C/New folder (5)/go/src/example/helo.go",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam05.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam04.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam03.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam02.html",
+		"/C/Users/poriya/Desktop/TopLearn.Com_AngularJs_01/AngularJs_Example/Exam01.html",
+		"/C/xampps/htdocs/test19.php",
+		"/C/xampps/htdocs/test12.php",
+		"/C/xampps/htdocs/test23.php",
+		"/C/Users/poriya/Desktop/New folder (9)/control.php",
+		"/C/Users/poriya/Desktop/New folder (9)/t2.html",
+		"/C/Users/poriya/Desktop/New folder (9)/tet.html",
+		"/C/Users/poriya/Desktop/image_0 (1).svg",
+		"/C/xampp/htdocs/test9-2.php",
+		"/C/xampp/htdocs/test9.php",
+		"/C/xampp/htdocs/test8.php",
+		"/C/xampp/htdocs/test10.php",
+		"/C/xampp/htdocs/test6.php",
+		"/C/xampp/htdocs/test5.php",
+		"/C/xampp/htdocs/test4.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2720,
+								2720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1747.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2813,
+								2813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1600.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "elastic.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
